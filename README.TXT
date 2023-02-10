@@ -1,5 +1,3 @@
-# Information about this webcomponent
+# website about cooking:
 
-This is just a demo, so I do not know what to write. 
-
-suggestion for more info here please!
+## different dishes
